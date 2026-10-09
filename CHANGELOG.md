@@ -7,7 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Cast
+## Cast
+
+### Added
+- `sncast declare` now support automatic verification. Providing `--verifier` flag will send a verification request. `--test-files` and `--confirm-verification` flags are also available.
 
 #### Fixed
 
